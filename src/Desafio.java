@@ -12,7 +12,9 @@ public class Desafio {
 		System.out.println("Digite outro número");
 		int n2 = sc.nextInt();
 		
-		
+		int soma = n1 + n2;
+		System.out.println("O resultado da soma desses números = " + soma);
+			
 		sc.close();
 
 	}
