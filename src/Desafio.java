@@ -9,6 +9,10 @@ public class Desafio {
 		System.out.println("Digite um número: ");
 		int n1 = sc.nextInt();
 		
+		System.out.println("Digite outro número");
+		int n2 = sc.nextInt();
+		
+		
 		sc.close();
 
 	}
